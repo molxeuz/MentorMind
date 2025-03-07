@@ -80,9 +80,10 @@ DEEPSEEK_API_KEY=tu_api_key_aqui
 - Ampliación del soporte para más idiomas.
 
 ## 👨‍💻 Integrantes del Proyecto
+- **Mateo**
 - **Moises**
 - **Andres**
-- **Mateo**
+- **Samuel**
 
 ## 📜 Licencia
 Este proyecto es de código abierto bajo la licencia **MIT**.
